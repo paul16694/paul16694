@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate with industrial companies to simplify business processes
 - 📫 How to reach me: write a message
 - 😄 Pronouns: Im open for everthing
-- ⚡ Fun fact: I use a lot of AI
 
 <!---
 paul16694/paul16694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
